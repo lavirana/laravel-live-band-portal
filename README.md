@@ -47,7 +47,7 @@ http://127.0.0.1:8000
 
 ## Screenshots
 
-<img width="1436" height="772" alt="Screenshot 2025-09-20 at 12 26 19 AM" src="https://github.com/user-attachments/assets/5da988b0-069c-480d-9515-2507df8c54ed" />
+<img width="1436" height="764" alt="Screenshot 2025-09-20 at 12 26 12 AM" src="https://github.com/user-attachments/assets/7a443a3b-9e49-469d-a111-1692a48cbcff" />
 
 <img width="1436" height="772" alt="Screenshot 2025-09-20 at 12 26 19 AM" src="https://github.com/user-attachments/assets/c0bb15d0-7c17-487a-a5c9-22531fcbf6bd" />
 
