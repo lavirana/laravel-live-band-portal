@@ -46,3 +46,20 @@ php artisan serve
 http://127.0.0.1:8000
 
 ## Screenshots
+
+<img width="1436" height="772" alt="Screenshot 2025-09-20 at 12 26 19 AM" src="https://github.com/user-attachments/assets/5da988b0-069c-480d-9515-2507df8c54ed" />
+
+<img width="1436" height="772" alt="Screenshot 2025-09-20 at 12 26 19 AM" src="https://github.com/user-attachments/assets/c0bb15d0-7c17-487a-a5c9-22531fcbf6bd" />
+
+<img width="1435" height="775" alt="Screenshot 2025-09-20 at 12 26 25 AM" src="https://github.com/user-attachments/assets/db4338f7-36a5-4e3f-b598-a8308ec7dd8c" />
+
+<img width="1430" height="770" alt="Screenshot 2025-09-20 at 12 26 33 AM" src="https://github.com/user-attachments/assets/342761a6-2ace-4b69-b980-db22d884e6e9" />
+
+
+
+
+
+
+
+
+
